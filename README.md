@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hi there, I'm Ihor Sobol - HTML/CSS Coder
 
-<!--
-**IgorSobol/IgorSobol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
 
-Here are some ideas to get you started:
+- 💻 I develop cross-platform, responsive web interfaces using semantic HTML. I also analyze the availability of interfaces, in accordance with the requirements (a11y), and make my work as accessible as possible for all people.
+- 👯 I conduct HTML/CSS courses where I share my experience with novice developers. Participating as a mentor in courses from HTML academy. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Sobol | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sobol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
+### Languages and Tools:
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Part 1. Web, HTML/CSS, and JavaScript basics: practical tips [RU]](https://www.youtube.com/watch?v=OmuqxwbGxdw&t=10s)
+- [Part 2. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=fPS2iUBHNGM&t=2s)
+- [Part 3. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=rUm8oRdfjXI&t=13s)
+<!-- YOUTUBE:END -->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IgorSobol&show_icons=true&hide_border=true" />
+</details>
+
+[facebook]: https://www.facebook.com/profile.php?id=100010692156309
+[linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
