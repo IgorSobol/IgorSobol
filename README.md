@@ -9,6 +9,8 @@
 
 [<img align="left" alt="Sobol | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sobol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sobol | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="Sobol | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 <br />
 
@@ -45,3 +47,5 @@
 
 [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
+[codepen]: https://codepen.io/dashboard/
+[codewars]: https://www.codewars.com/users/D.o.m.i.n.u.S
