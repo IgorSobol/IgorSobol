@@ -1,4 +1,4 @@
-## Hi there, I'm Ihor Sobol - Senior HTML/CSS Developer
+## Hi there, I'm Ihor Sobol - HTML/CSS Developer
 
 ### What I do
 
