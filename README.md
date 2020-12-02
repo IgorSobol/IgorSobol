@@ -47,7 +47,7 @@
 
 <br />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorSobol)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IgorSobol)](https://github.com/anuraghazra/github-readme-stats)]
 
 [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
