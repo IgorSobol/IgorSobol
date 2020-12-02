@@ -41,7 +41,7 @@
 <br />
 
 <a href="https://github.com/IgorSobol/IgorSobol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&theme=material-palenight" alt="Igor Sobol github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Igor Sobol github stats" />
 </a>
 
 [facebook]: https://www.facebook.com/profile.php?id=100010692156309
