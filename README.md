@@ -5,6 +5,13 @@
 - 💻 I develop cross-platform, responsive web interfaces using semantic HTML. I also analyze the availability of interfaces, in accordance with the requirements (a11y), and make my work as accessible as possible for all people.
 - 👯 I conduct HTML/CSS courses where I share my experience with novice developers. Participating as a mentor in courses from HTML academy. 
 
+<br />
+
+<a href="https://github.com/IgorSobol/IgorSobol">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Igor Sobol github stats" />
+</a>
+
+
 ### Connect with me:
 
 [<img align="left" alt="Sobol | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -37,12 +44,6 @@
 - [Part 2. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=fPS2iUBHNGM&t=2s)
 - [Part 3. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=rUm8oRdfjXI&t=13s)
 <!-- YOUTUBE:END -->
-
-<br />
-
-<a href="https://github.com/IgorSobol/IgorSobol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Igor Sobol github stats" />
-</a>
 
 [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
