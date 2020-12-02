@@ -45,10 +45,6 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IgorSobol&show_icons=true&hide_border=true" />
 </details>
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSobol)](https://github.com/IgorSobol/IgorSobol)
-
 [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
 [codepen]: https://codepen.io/dashboard/
