@@ -49,3 +49,7 @@
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
 [codepen]: https://codepen.io/dashboard/
 [codewars]: https://www.codewars.com/users/D.o.m.i.n.u.S
+
+
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=IgorSobol&repo=DominusDB&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
