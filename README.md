@@ -1,15 +1,13 @@
 ## Hi there, I'm Ihor Sobol - HTML/CSS Developer
 
-### What I do
-
-- 💻 I develop cross-platform, responsive web interfaces using semantic HTML. I also analyze the availability of interfaces, in accordance with the requirements (a11y), and make my work as accessible as possible for all people.
-- 👯 I conduct HTML/CSS courses where I share my experience with novice developers. Participating as a mentor in courses from HTML academy. 
-
-<br />
-
 <a href="https://github.com/IgorSobol/IgorSobol">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Igor Sobol github stats" />
 </a>
+
+### What I do
+
+- 💻 I develop cross-platform, responsive web interfaces using semantic HTML. I also analyze the availability of interfaces, in accordance with the requirements (a11y), and make my work as accessible as possible for all people.
+- 👯 I conduct HTML/CSS courses where I share my experience with novice developers. Participating as a mentor in courses from HTML academy.
 
 
 ### Connect with me:
