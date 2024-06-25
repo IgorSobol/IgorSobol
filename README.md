@@ -1,4 +1,4 @@
-## Hi there, I'm Ihor Sobol - Front End Developer
+## Hi there, I'm Ihor Sobol - Senior Frontend Developer
 
 <a href="https://github.com/IgorSobol/IgorSobol">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="My github stats" />
