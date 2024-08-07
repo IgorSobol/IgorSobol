@@ -42,7 +42,9 @@
 - [Part 3. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=rUm8oRdfjXI&t=13s) -->
 <!-- YOUTUBE:END -->
 
-<!-- [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 [linkedin]: https://www.linkedin.com/in/ihor-sobol-90009b1a1/
+
+<!-- [facebook]: https://www.facebook.com/profile.php?id=100010692156309
+
 [codepen]: https://codepen.io/dashboard/
 [codewars]: https://www.codewars.com/users/D.o.m.i.n.u.S -->
