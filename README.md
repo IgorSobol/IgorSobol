@@ -42,8 +42,8 @@
 - [Part 3. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=rUm8oRdfjXI&t=13s) -->
 <!-- YOUTUBE:END -->
 
-### 📳 Contacts
-[<img src="https://github.com/user-attachments/assets/1b601751-604e-4e7a-b105-844882c283de" width="20" height="20" alt="Linkedin" /> LinkedIN](https://www.linkedin.com/in/ihor-sobol-90009b1a1/)
+<!-- ### 📳 Contacts
+[<img src="https://github.com/user-attachments/assets/1b601751-604e-4e7a-b105-844882c283de" width="20" height="20" alt="Linkedin" /> LinkedIN](https://www.linkedin.com/in/ihor-sobol-90009b1a1/) -->
 
 <!-- [facebook]: https://www.facebook.com/profile.php?id=100010692156309
 
