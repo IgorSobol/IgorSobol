@@ -27,10 +27,8 @@ Focused on real-world delivery: performance, maintainability, and inclusive UI.
 
 ---
 
-### 🏆 Highlights
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=IgorSobol&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=IgorSobol&theme=tokyonight)
 
 ---
 
@@ -38,6 +36,11 @@ Focused on real-world delivery: performance, maintainability, and inclusive UI.
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSobol&theme=github-compact" />
 </p>
+
+---
+
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSobol&layout=compact&theme=tokyonight)
 
 ---
 
