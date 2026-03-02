@@ -21,6 +21,10 @@ Focused on real-world delivery: performance, maintainability, and inclusive UI.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSobol&theme=material-palenight" height="165" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSobol&layout=compact&langs_count=10&theme=material-palenight" height="165" />
+</p>
+
 ---
 
 ### 🏆 Highlights
