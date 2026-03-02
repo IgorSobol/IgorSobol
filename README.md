@@ -1,51 +1,72 @@
-## Hi there, I'm Igor Sobol - Senior Frontend Developer
+## Hi there, I'm Igor Sobol 👋
+Senior Frontend Developer • Vue.js • Accessibility (A11y) • Design Systems
 
-<a href="https://github.com/IgorSobol/IgorSobol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="My github stats" />
-</a>
+I build reliable, accessible interfaces with strong UX and clean architecture.  
+Focused on real-world delivery: performance, maintainability, and inclusive UI.
 
-<!-- ### What I do
+---
 
-- 💻 I develop cross-platform, responsive web interfaces using semantic HTML. I also analyze the availability of interfaces, in accordance with the requirements (a11y), and make my work as accessible as possible for all people.
-- 👯 I conduct HTML/CSS courses where I share my experience with novice developers. Participating as a mentor in courses from HTML academy. -->
+### ✨ What I focus on
+- Accessibility-first UI (WCAG-minded, keyboard & screen reader friendly)
+- Vue 3 + TypeScript architecture (composition patterns, scalability)
+- UI consistency (design systems, tokens, reusable components)
+- Performance and DX (profiling, bundle hygiene, testing)
 
+---
 
-<!-- ### Connect with me: -->
+### 📊 GitHub metrics
 
-<!-- [<img align="left" alt="Sobol | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Sobol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sobol | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="Sobol | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars] -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=material-palenight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSobol&theme=material-palenight" height="165" />
+</p>
 
-<!-- <br /> -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSobol&layout=compact&langs_count=10&theme=material-palenight" height="165" />
+</p>
 
-<!-- ### Languages and Tools: -->
+---
 
-<!-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
+### 🏆 Highlights
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=IgorSobol&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
-<!-- <br />
-<br /> -->
+---
 
+### 📈 Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IgorSobol&theme=github-compact" />
+</p>
 
-<!-- ### 📺 Latest YouTube Videos -->
+---
 
-<!-- YOUTUBE:START -->
-<!-- - [Part 1. Web, HTML/CSS, and JavaScript basics: practical tips [RU]](https://www.youtube.com/watch?v=OmuqxwbGxdw&t=10s)
-- [Part 2. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=fPS2iUBHNGM&t=2s)
-- [Part 3. Web, HTML/CSS, and JavaScript basics: practical tips. [RU]](https://www.youtube.com/watch?v=rUm8oRdfjXI&t=13s) -->
-<!-- YOUTUBE:END -->
+### 🧰 Stack (core)
+- Frontend: Vue 3, TypeScript, Vite
+- UI: component-driven approach, design systems, tokens, A11y
+- Quality: Playwright (E2E), unit testing where it matters, CI-friendly workflows
 
-<!-- ### 📳 Contacts
-[<img src="https://github.com/user-attachments/assets/1b601751-604e-4e7a-b105-844882c283de" width="20" height="20" alt="Linkedin" /> LinkedIN](https://www.linkedin.com/in/ihor-sobol-90009b1a1/) -->
+---
 
-<!-- [facebook]: https://www.facebook.com/profile.php?id=100010692156309
+### ✅ A11y mindset (what I ship)
+- Keyboard-first navigation
+- Clear focus states and logical focus order
+- Semantic HTML + ARIA only when needed
+- Consistent labels, errors, announcements
+- Accessible dialogs, forms, and complex components (sliders, tabs, step flows)
 
-[codepen]: https://codepen.io/dashboard/
-[codewars]: https://www.codewars.com/users/D.o.m.i.n.u.S -->
+---
+
+### 📌 Featured work
+- **Accessible components** — buttons, inputs, dialogs, notifications, step flows
+- **Analytics architecture** — strategy/builder style event pipelines (frontend)
+- **A11y guidelines repo** — practical rules + good/bad examples + testing notes
+
+> If you want, I can tailor this section to real repos: add 3–6 pinned projects with short bullets.
+
+---
+
+### 🔖 Now
+- Building scalable Vue 3 apps
+- Improving A11y in real products
+- Growing system design thinking for frontend
