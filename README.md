@@ -16,10 +16,7 @@ Focused on real-world delivery: performance, maintainability, and inclusive UI.
 
 ### 📊 GitHub metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorSobol&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=material-palenight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSobol&theme=material-palenight" height="165" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSobol&layout=compact&langs_count=10&theme=material-palenight" height="165" />
